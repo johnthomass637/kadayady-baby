@@ -1,0 +1,38 @@
+body {
+	background-color: #ffffff !important;
+}
+.bg {
+	background-color: #ffffff !important;
+}
+
+.loginDiv {
+	padding-top: 100px;
+	text-align: center;
+}
+
+.labelDiv {
+	font-size: 16px;
+	color: #1e2a31;
+	font-weight: bold;
+	letter-spacing: 2px;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.logo {
+	padding-top: 20px;
+}
+
+input {
+	margin-top: 10px;
+	width: 18%;
+}
+
+button {
+	margin-top: 10px;
+	width: 18%;
+	background-color: #1f6480;
+	border: 1px solid #4aaed6;
+	border-radius: 3px;
+	color: white;
+	height: 25px;
+}
